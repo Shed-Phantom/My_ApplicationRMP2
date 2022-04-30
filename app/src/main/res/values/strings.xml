@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">My ApplicationRMP2</string>
+    <string name="_2">Рота2</string>
+    <string name="_2">Рота2</string>
+    <string name="_2">Рота2</string>
+    <string name="rota2">Rota2</string>
+    <string name="moba2">MOBA2</string>
+    <string name="azimut">Azimut</string>
+    <string name="_22g1">22G1</string>
+    <string name="conteiner">Conteiner</string>
+    <string name="work">Work</string>
+    <string name="yes">Yes</string>
+    <string name="DontSleep">НЕ Спать</string>
+    <string name="no">NO</string>
+    <string name="img1">IMG1</string>
+    <string name="img3">IMG3</string>
+    <string name="img2">img2</string>
+    <string name="img4">IMG4</string>
+    <string name="img5">img5</string>
 </resources>
